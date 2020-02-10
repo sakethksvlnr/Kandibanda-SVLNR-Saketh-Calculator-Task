@@ -1,2 +1,2 @@
 # Kandibanda-SVLNR-Saketh-Calculator-Task
-Calculator Task Desing Principles
+Calculator Task Design Principles
